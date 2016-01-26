@@ -1,0 +1,13 @@
+strong {
+	cursor: pointer;
+}
+
+img {
+	cursor: pointer;
+}
+
+span {
+	background-color: orange;
+	cursor: pointer;
+}
+
